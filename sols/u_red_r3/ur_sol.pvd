@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<VTKFile type ="Collection" version="1.0" byte_order="LittleEndian">
+<Collection>
+<DataSet timestep="0.005" file="ur_sol.vtu"/>
+<DataSet timestep="0.005" file="ur_sol_step00001.vtu"/>
+<DataSet timestep="0.01" file="ur_sol_step00002.vtu"/>
+<DataSet timestep="0.015" file="ur_sol_step00003.vtu"/>
+<DataSet timestep="0.02" file="ur_sol_step00004.vtu"/>
+<DataSet timestep="0.025" file="ur_sol_step00005.vtu"/>
+<DataSet timestep="0.03" file="ur_sol_step00006.vtu"/>
+<DataSet timestep="0.035" file="ur_sol_step00007.vtu"/>
+<DataSet timestep="0.04" file="ur_sol_step00008.vtu"/>
+<DataSet timestep="0.045" file="ur_sol_step00009.vtu"/>
+<DataSet timestep="0.05" file="ur_sol_step00010.vtu"/>
+<DataSet timestep="0.055" file="ur_sol_step00011.vtu"/>
+<DataSet timestep="0.06" file="ur_sol_step00012.vtu"/>
+<DataSet timestep="0.065" file="ur_sol_step00013.vtu"/>
+<DataSet timestep="0.07" file="ur_sol_step00014.vtu"/>
+<DataSet timestep="0.075" file="ur_sol_step00015.vtu"/>
+<DataSet timestep="0.08" file="ur_sol_step00016.vtu"/>
+<DataSet timestep="0.085" file="ur_sol_step00017.vtu"/>
+<DataSet timestep="0.09" file="ur_sol_step00018.vtu"/>
+<DataSet timestep="0.095" file="ur_sol_step00019.vtu"/>
+</Collection>
+</VTKFile>
