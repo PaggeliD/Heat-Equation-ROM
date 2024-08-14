@@ -22,7 +22,7 @@ Finally, we display some visuals to get your attention going. From left to right
 
 <p float="middle">
 
-<img src="https://github.com/PaggeliD/Heat-Equation-ROM/blob/main/sols/u_approx/png_files/uh_sol.gif" alt="FOM" width=388 />
-<img src="https://github.com/PaggeliD/Heat-Equation-ROM/blob/main/sols/u_red_r4/png_files/ur_sol.gif" width=388 />
+<img src="https://github.com/PaggeliD/Heat-Equation-ROM/blob/main/sols/u_approx/png_files/uh_sol.gif" alt="FOM" width=400 />
+<img src="https://github.com/PaggeliD/Heat-Equation-ROM/blob/main/sols/u_red_r4/png_files/ur_sol.gif" width=400 />
 
 </p>
